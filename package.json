@@ -2,12 +2,13 @@
   "name": "js-base64",
   "version": "3.5.2",
   "description": "Yet another Base64 transcoder in pure-JS",
-  "main": "base64.js",
-  "module": "base64.mjs",
+  "main": "base64.es5.js",
+  "module": "base64.es5.js",
   "types": "base64.d.ts",
   "files": [
     "base64.js",
     "base64.mjs",
+    "base64.es5.js",
     "base64.d.ts"
   ],
   "scripts": {
